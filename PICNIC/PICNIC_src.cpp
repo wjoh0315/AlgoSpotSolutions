@@ -1,3 +1,4 @@
+//https://algospot.com/judge/problem/read/PICNIC
 #include <iostream>
 #include <cstring>
 using namespace std;
